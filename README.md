@@ -1,6 +1,6 @@
 
 # Alexa Skills Template
-[Link to the video](https://drive.google.com/drive/folders/0B5189b8eE2iOUjFpRWY3cmJKcXc)...   
+[Link to the video](https://drive.google.com/open?id=0B6ElP-Jk1O0ZdEtvSzFZd3c1ZkE)...   
 This walkthrough and accompanying video will take you through as simple as possible an Alexa Skill that doesn't involve the words 'Hello' or 'World'.      
 
 Please feel free to do pull requests for any errors in this walkthrough or in the video. We would really appreciate if you did.      
