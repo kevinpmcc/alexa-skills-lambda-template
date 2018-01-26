@@ -179,7 +179,7 @@ Click 'Ask....'
 
 
 ## Step 5. Test it for realsies    
-Go to [echosim.io](www.echosim.io) [14:35] 
+Go to [echosim.io](http://www.echosim.io) [14:35] 
 
   Log in with the same amazon account you used to build the skill.    
 
